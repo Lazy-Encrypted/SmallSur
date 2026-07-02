@@ -75,7 +75,7 @@ git clone https://github.com/Lazy-Encrypted/SmallSur
 cd SmallSur
 ```
 ```bash
-chmod +x install_gentoo.sh && sudo ./install-fedora.sh
+chmod +x install_gentoo.sh && sudo ./install_gentoo.sh
 ```
 
 Note: By default, the wallpapers are installed in the Pictures folder in your home directory.
