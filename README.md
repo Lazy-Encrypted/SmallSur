@@ -37,7 +37,7 @@ Before installing Small Sur, ensure that you have the following requirements are
 ## Installation
 ### For Debian/Ubuntu
 ```bash
-git clone https://github.com/jothi-prasath/SmallSur
+git clone https://github.com/Lazy-Encrypted/SmallSur
 ```
 ```bash
 cd SmallSur
@@ -48,7 +48,7 @@ chmod +x install-debian.sh && sudo ./install-debian.sh
 
 ### For Arch/Manjaro
 ```bash
-git clone https://github.com/jothi-prasath/SmallSur
+git clone https://github.com/Lazy-Encrypted/SmallSur
 ```
 ```bash
 cd SmallSur
@@ -58,7 +58,7 @@ chmod +x install-arch.sh && sudo ./install-arch.sh
 ```
 ### For Fedora
 ```bash
-git clone https://github.com/jothi-prasath/SmallSur
+git clone https://github.com/Lazy-Encrypted/SmallSur
 ```
 ```bash
 cd SmallSur
@@ -66,6 +66,18 @@ cd SmallSur
 ```bash
 chmod +x install-fedora.sh && sudo ./install-fedora.sh
 ```
+
+### For Gentoo
+```bash
+git clone https://github.com/Lazy-Encrypted/SmallSur
+```
+```bash
+cd SmallSur
+```
+```bash
+chmod +x install_gentoo.sh && sudo ./install-fedora.sh
+```
+
 Note: By default, the wallpapers are installed in the Pictures folder in your home directory.
 
 ## Usage
