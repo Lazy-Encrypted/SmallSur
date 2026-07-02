@@ -3,7 +3,7 @@
 user_name="$USER"
 
 #Global menu and xfce plugin
-sudo emerge -av  xfce4-goodies xfce4-power-manager
+sudo emerge -av  xfce4-goodies xfce4-power-manager dev-utils/dialog dev-lang/sassc
 
 #GTK theme
 git clone https://github.com/jothi-prasath/WhiteSur-gtk-theme.git --depth=1
